@@ -4,7 +4,6 @@
   "version": "2.0.0",
   "description": "__MSG_extensionDescription__",
   "author": "Justyn Hunter",
-  "homepage_url": "",
   "icons": {
     "32": "icon.png",
     "48": "icon48.png",
@@ -24,7 +23,7 @@
   "permissions": ["<all_urls>", "webRequest", "webRequestBlocking"],
   "applications": {
     "gecko": {
-      "id": "jsonview@brh.numbera.com"
+      "id": "jsonview-dark@justynhunter.com"
     }
   },
   "web_accessible_resources": ["viewer.css", "viewer.js"],
